@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("was Neues");
+            Console.WriteLine("was 2 Neues");
         }
     }
 }
